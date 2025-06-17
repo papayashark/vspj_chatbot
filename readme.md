@@ -1,6 +1,6 @@
 # vspj_bot
 
-Bot that answers student's questions
+A bot that answers students’ questions
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
